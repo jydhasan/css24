@@ -1,0 +1,16 @@
+* {
+    margin: auto;
+}
+
+.first {
+    text-shadow: 2px 2px red;
+}
+
+.second {
+    text-shadow: 2px 2px 2px red;
+}
+
+.third {
+    color: white;
+    text-shadow: 2px 2px 2px blue;
+}
